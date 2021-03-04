@@ -12,4 +12,3 @@ while True:
         oled.text('World', i, 18)
         oled.show()
         utime.sleep_ms(30)
-        we
